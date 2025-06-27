@@ -17,9 +17,9 @@
 
 ### 🛠 Projets récents
 
--  [**Application web de gestion de budget**]((https://github.com/Big-pun/projet-synthese)) – Interface responsive en Vue.js pour une plateforme fictive.
--  [**Projet Camping**]((https://github.com/ines-taborin/Projet-Camping)) – Application Vue.js pour la gestion d’un centre de loisirs.
--  [**Projet API Chats**](https://github.com/ines-taborin/Projet-API-Chats) – Intégration web à partir de maquette Figma avec animations SASS.
+-  [**Application web de gestion de budget**](https://github.com/Big-pun/projet-synthese) – Interface responsive en Vue.js pour une plateforme fictive.
+-  [**Projet Camping**](https://github.com/ines-taborin/Projet-Camping) – Application Vue.js pour la gestion d’un centre de loisirs.
+-  [**Projet API Chats**](https://github.com/ines-taborin/Projet-API-Chats) – Mini-application en React et Tailwind CSS pour une recherche de chats via une API.
 
 ---
 
