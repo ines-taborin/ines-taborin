@@ -43,7 +43,7 @@
 ### 🤝 Me contacter
 
 - 📬 ines.taborin@gmail.com 
-- 💼 [LinkedIn](www.linkedin.com/in/inès-taborin)
+- 💼 [LinkedIn](https://www.linkedin.com/in/in%C3%A8s-taborin/)
 
 ---
 
